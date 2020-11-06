@@ -1,4 +1,4 @@
-Bài 1
+          BÀI 1
 
 
 #include <stdio.h>
