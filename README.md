@@ -66,3 +66,10 @@ bai5_Thuc_Hanh.c
 https://code.dcoder.tech/files/code/5fa8aed57837e92b7071e1f4/bai5thc
 
 
+bai1_Thuc_Hanh.c
+
+
+https://code.dcoder.tech/files/code/5fa88be1c4dd362b82b4e32f/bai1_thuc_hanhc
+
+
+
